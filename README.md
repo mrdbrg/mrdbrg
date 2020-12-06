@@ -15,7 +15,7 @@
 
    _I've come to realize that the luck we always claim to have (some more than others) is nothing more than just a reflection of how the world reacts to you and how you're vibrating. Think about the last time you did something good to someone. How did that make you feel? The feeling of joy, purpose, fulfillment... now what if I told you that those feelings and the state of mind it leaves you in reality are giving you confidence, enthusiasm, increased happiness, improved productivity, awareness, creativity, and focus and also communicating (by giving off small positive cues in your behavior) to others around you? Needless to say you need to __want__ to do good (your WHY is important here) for merely doing it just to __feel__ good may have other consequences for your motives were corrupted to begin with. I know it sounds like science fiction but forementioned positive feelings go away eventually and if we're not careful we're dragged back into that mindset of negativity, judgement, and self-doubt again. But we can make it last longer and increase that so called __luck__ simply by doing more good to others or in general. Help someone and watch your luck tenfold._    
      
-_Hopefully this thought I shared resonates with you_
+_I hope this resonates with you in a positive way_
 <br/>
 
 ### I'm now listening :headphones:
