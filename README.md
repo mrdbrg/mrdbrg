@@ -7,7 +7,7 @@
 - 💬 Ask me about Javascript, React and Rails as an API and I will be happy to help
 - :necktie: Let's connect on [LinkedIn](https://www.linkedin.com/in/marlon-braga/)
 - :zap: Fun facts:<br/> 
-     :speaking_head: I speak 4 languages (English (duh!), Portuguese, Italian, Spanish)
+     :speaking_head: I speak 4 languages (English -duh!, Portuguese, Italian, Spanish)
      :earth_africa: I lived in Italy, Spain and China (Didn't live in China long enough to learn much Chinese though - Bàoqiàn)<br/>
      :name_badge: My middle name is _Rodrigo_ - some people call me __Rod__<br/><br/>
 - :deciduous_tree: A thought I'd like to share:
