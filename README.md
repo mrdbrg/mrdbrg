@@ -1,7 +1,7 @@
 ### Hello network 👋  I'm Marlon!
 ---
 
-- :jigsaw: I’m currently planning a new project - A CRM application
+- :jigsaw: I wanna learn how to play the piano 
 - 🌱 I’m currently learning Node.js and more React
 - :fist_right::fist_left:  I’m looking to collaborate on a cool project with other like-minded people
 - 💬 Ask me about Javascript, React and Rails as an API and I will be happy to help
