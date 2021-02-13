@@ -2,7 +2,7 @@
 ---
 
 - :musical_keyboard: I wanna learn how to play the piano 
-- 🌱 I’m currently learning Node.js and React
+- 🌱 I’m currently learning Node.js, Algorithms, and Data structures
 - :fist_right::fist_left:  I’m looking to collaborate on a cool project with other like-minded people
 - 💬 Ask me about Javascript, React and Rails as an API and I will be happy to help
 - :necktie: Let's connect on [LinkedIn](https://www.linkedin.com/in/marlon-braga/)
