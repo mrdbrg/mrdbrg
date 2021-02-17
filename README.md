@@ -4,7 +4,7 @@
 - :musical_keyboard: I wanna learn how to play the piano 
 - 🌱 I’m currently learning Python and AI
 - 📈 I'm practing Algorithms on [AlgoExpert](https://www.algoexpert.io/questions) and [LeetCode](https://leetcode.com/subscribe/?ref=lp_pl)
-- :fist_right::fist_left:  Collaborating with my buddies [Franklin](https://github.com/fbado66) and [Bashir](link)
+- :fist_right::fist_left: I'm always collaborating with my buddies [Franklin](https://github.com/fbado66) and [Bashir](link) to fix a challenging bug on project or simply getting more algorithm practice.
 - 💬 Ask me about Javascript, React and Rails as an API and I will be happy to help
 - :necktie: Let's connect on [LinkedIn](https://www.linkedin.com/in/marlon-braga/)
 - :zap: Fun facts:<br/> 
